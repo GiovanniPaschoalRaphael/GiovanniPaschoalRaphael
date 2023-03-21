@@ -45,13 +45,13 @@
 <H1>CONTATOS</H1>
   
   <a href="https://www.instagram.com/_giovanniraphael/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:giovanni_paschoal@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whi"></a> <a href = "mailto:giovanniraphael1997@gmail.com
-"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/giovanni-paschoal-raphael-29919912a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/giovanni-paschoal-raphael-29919912a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://wa.me/5518996606772?text=Ol%C3%A1+vi+seu+contato+no+perfil++do+Github+e+gostaria+de+falar+com+voc%C3%AA" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ 
   
 </div>
 
-
-
-
+ 
+ 
 
 
 
