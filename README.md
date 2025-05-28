@@ -20,6 +20,7 @@
   <img  align="center" alt="-gimp" height="60" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" />
   <img  align="center" alt="-photoshop" height="60" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img  align="center" alt="-wordpress" height="60" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+  <img  align="center" alt="-wordpress" height="60" width="60"src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg](https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg)" />
 
   
 </div>
